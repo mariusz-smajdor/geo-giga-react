@@ -12,6 +12,7 @@ export const theme = {
   },
   layout: {
     navbar: 75,
+    smallNavbar: 55,
   },
   time: {
     transition: 0.5,
