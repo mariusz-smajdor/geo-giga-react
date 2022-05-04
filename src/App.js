@@ -1,8 +1,10 @@
 import { HashRouter, Route, Routes } from 'react-router-dom';
 
 import Navigation from './components/layout/Navigation';
-import Regions from './pages/Regions';
 import Home from './pages/Home';
+import Regions from './pages/Regions';
+import Flags from './pages/Flags';
+import { regions } from './regions';
 
 function App() {
   return (
@@ -11,6 +13,13 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/flags' element={<Regions />} />
+        {regions.map(region => (
+          <Route
+            key={region.id}
+            path={`/flags/:region`}
+            element={<Flags />}
+          />
+        ))}
       </Routes>
     </HashRouter>
   );
