@@ -3,6 +3,7 @@ export const theme = {
     primary: '#064f32',
     secondary: '#043b25',
     text: '#fcfcfc',
+    inputText: '#0a120a',
   },
   breakpoint: {
     small: 575,
