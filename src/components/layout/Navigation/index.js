@@ -33,7 +33,7 @@ function Navigation() {
             </StyledLink>
           </Item>
           <Item>
-            <StyledLink to='/'>
+            <StyledLink to='flags'>
               <RiFlagLine />
               <Text>Flags</Text>
             </StyledLink>
