@@ -1,5 +1,16 @@
+import { HashRouter, Route, Routes } from 'react-router-dom';
+
+import Navigation from './components/layout/Navigation';
+
 function App() {
-  return <h1>Hello world!</h1>;
+  return (
+    <HashRouter>
+      <Navigation />
+      <Routes>
+        <Route path='/' element={<></>} />
+      </Routes>
+    </HashRouter>
+  );
 }
 
 export default App;
