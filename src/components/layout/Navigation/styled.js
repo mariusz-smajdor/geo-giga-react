@@ -54,6 +54,7 @@ export const Wrapper = styled.nav`
   position: fixed;
   height: 100vh;
   width: ${({ theme }) => theme.layout.navbar}px;
+  box-shadow: ${({ theme }) => theme.color.secondary} 0px 2px 8px 0px;
   background: ${({ theme }) => theme.color.primary};
   font-size: 18px;
   transition: width ${({ theme }) => theme.time.transition}s;
