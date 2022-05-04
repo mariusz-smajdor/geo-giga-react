@@ -1,7 +1,7 @@
 export const theme = {
   color: {
     primary: '#064f32',
-    primaryLighter: '#06603c',
+    secondary: '#043b25',
     text: '#fcfcfc',
   },
   breakpoint: {
@@ -11,7 +11,7 @@ export const theme = {
     large: 1199,
   },
   layout: {
-    navSize: 75,
+    navbar: 75,
   },
   time: {
     transition: 0.5,
