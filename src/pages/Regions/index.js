@@ -2,7 +2,7 @@ import Container from '../../components/layout/Container';
 import { regions } from '../../regions';
 import { Wrapper, Title, Games, StyledLink } from './styled';
 
-function Flags() {
+function Regions() {
   return (
     <Container>
       <Wrapper>
@@ -19,4 +19,4 @@ function Flags() {
   );
 }
 
-export default Flags;
+export default Regions;
