@@ -7,15 +7,7 @@ import {
   RiEarthLine,
 } from 'react-icons/ri';
 
-import {
-  Wrapper,
-  Header,
-  Title,
-  List,
-  Item,
-  StyledLink,
-  Text,
-} from './styled';
+import { Wrapper, Header, Title, List, Item, StyledLink, Text } from './styled';
 
 function Navigation() {
   return (
@@ -39,7 +31,7 @@ function Navigation() {
             </StyledLink>
           </Item>
           <Item>
-            <StyledLink to='/'>
+            <StyledLink to='street-view'>
               <RiRoadMapLine />
               <Text>Street View</Text>
             </StyledLink>
