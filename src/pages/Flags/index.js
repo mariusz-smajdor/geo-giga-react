@@ -1,24 +1,17 @@
 import { useState, useRef } from 'react';
 
 import Container from '../../components/layout/Container';
+import Victory from '../../components/UI/Victory';
 import { useCountries } from '../../hooks/useCountries';
 import { Input } from '../../components/UI/Input/styled';
 import { Button } from '../../components/UI/Button/styled';
-import {
-  Country,
-  Flag,
-  Form,
-  HelpButtons,
-  Hints,
-  Hint,
-} from './styled';
+import { Country, Flag, Form, HelpButtons, Hints, Hint } from './styled';
 
 function Flags() {
   const [inputValue, setInputValue] = useState('');
   const inputRef = useRef(null);
 
-  const { data, removeCountry, skipCountry, getCountryHints } =
-    useCountries();
+  const { data, removeCountry, skipCountry, getCountryHints } = useCountries();
 
   function onFormSubmit(event) {
     event.preventDefault();
@@ -37,48 +30,49 @@ function Flags() {
 
   return (
     <Container>
-      {data.status === 'success' && (
-        <Country>
-          <Flag src={data.drawnCountry.flag} alt={`Flag`} />
-          <Form onSubmit={onFormSubmit}>
-            <Input
-              ref={inputRef}
-              value={inputValue}
-              onChange={({ target }) => setInputValue(target.value)}
-              placeholder='Country name'
-            />
-            <Button>Guess!</Button>
-          </Form>
-          <HelpButtons>
-            <Button onClick={() => getCountryHints()}>Hint</Button>
-            <Button onClick={() => skipCountry()}>Skip</Button>
-          </HelpButtons>
-          <Hints>
-            {data.countryHints.map(hint => {
-              return hint === 'Population' ? (
-                <Hint key={hint}>
-                  {hint}: {data.drawnCountry.population}
-                </Hint>
-              ) : hint === 'Official languages' ? (
-                <Hint key={hint}>
-                  {hint}:{' '}
-                  {Object.values(data.drawnCountry.languages).join(
-                    ', '
-                  )}
-                </Hint>
-              ) : hint === 'Subregion' ? (
-                <Hint key={hint}>
-                  {hint}: {data.drawnCountry.subregion}
-                </Hint>
-              ) : (
-                <Hint key={hint}>
-                  {hint}: {data.drawnCountry.capital}
-                </Hint>
-              );
-            })}
-          </Hints>
-        </Country>
-      )}
+      {data.status === 'success' &&
+        (data.countries.length > 0 ? (
+          <Country>
+            <Flag src={data.drawnCountry.flag} alt={`Flag`} />
+            <Form onSubmit={onFormSubmit}>
+              <Input
+                ref={inputRef}
+                value={inputValue}
+                onChange={({ target }) => setInputValue(target.value)}
+                placeholder='Country name'
+              />
+              <Button>Guess!</Button>
+            </Form>
+            <HelpButtons>
+              <Button onClick={() => getCountryHints()}>Hint</Button>
+              <Button onClick={() => skipCountry()}>Skip</Button>
+            </HelpButtons>
+            <Hints>
+              {data.countryHints.map(hint => {
+                return hint === 'Population' ? (
+                  <Hint key={hint}>
+                    {hint}: {data.drawnCountry.population}
+                  </Hint>
+                ) : hint === 'Official languages' ? (
+                  <Hint key={hint}>
+                    {hint}:{' '}
+                    {Object.values(data.drawnCountry.languages).join(', ')}
+                  </Hint>
+                ) : hint === 'Subregion' ? (
+                  <Hint key={hint}>
+                    {hint}: {data.drawnCountry.subregion}
+                  </Hint>
+                ) : (
+                  <Hint key={hint}>
+                    {hint}: {data.drawnCountry.capital}
+                  </Hint>
+                );
+              })}
+            </Hints>
+          </Country>
+        ) : (
+          <Victory />
+        ))}
     </Container>
   );
 }
