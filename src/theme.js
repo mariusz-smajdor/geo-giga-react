@@ -4,6 +4,7 @@ export const theme = {
     secondary: '#043b25',
     text: '#fcfcfc',
     inputText: '#0a120a',
+    error: '#800000',
   },
   breakpoint: {
     small: 575,
