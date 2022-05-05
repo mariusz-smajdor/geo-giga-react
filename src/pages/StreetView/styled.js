@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { MapContainer } from 'react-leaflet';
 
 export const Wrapper = styled.section`
   display: flex;
@@ -31,4 +32,41 @@ export const Form = styled.form`
 export const Street = styled.div`
   height: 100vh;
   width: 100vw;
+`;
+
+export const Map = styled.div`
+  display: flex;
+  flex-direction: column;
+  z-index: 999;
+  gap: 20px;
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+  padding: 20px;
+  border-radius: 20px;
+  background: ${({ theme }) => theme.color.primary};
+  overflow: hidden;
+`;
+
+export const StyledMap = styled(MapContainer)`
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+`;
+
+export const ResultMap = styled(MapContainer)`
+  height: 100vh;
+  width: 100vw;
+`;
+
+export const ResultField = styled.div`
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+  z-index: 999;
+  padding: 20px;
+  border-radius: 20px;
+  background: ${({ theme }) => theme.color.primary};
 `;
