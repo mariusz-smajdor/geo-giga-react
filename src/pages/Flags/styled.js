@@ -37,4 +37,13 @@ export const HelpButtons = styled.div`
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   padding: 0 25px;
+  margin-bottom: -20px;
+`;
+
+export const Hints = styled.div`
+  padding: 0 25px;
+`;
+
+export const Hint = styled.p`
+  margin: 20px 0 0 0;
 `;

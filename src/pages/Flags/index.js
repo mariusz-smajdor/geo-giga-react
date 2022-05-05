@@ -1,27 +1,82 @@
+import { useState, useRef } from 'react';
+
 import Container from '../../components/layout/Container';
 import { useCountries } from '../../hooks/useCountries';
 import { Input } from '../../components/UI/Input/styled';
 import { Button } from '../../components/UI/Button/styled';
-import { Country, Flag, Form, HelpButtons } from './styled';
+import {
+  Country,
+  Flag,
+  Form,
+  HelpButtons,
+  Hints,
+  Hint,
+} from './styled';
 
 function Flags() {
-  const { data } = useCountries();
+  const [inputValue, setInputValue] = useState('');
+  const inputRef = useRef(null);
 
-  console.log(data);
+  const { data, removeCountry, skipCountry, getCountryHints } =
+    useCountries();
+
+  function onFormSubmit(event) {
+    event.preventDefault();
+
+    const countryName = inputValue.trim().toLowerCase();
+
+    if (countryName !== data.drawnCountry.name.common.toLowerCase()) {
+      inputRef.current.focus();
+      return;
+    }
+
+    removeCountry();
+    setInputValue('');
+    inputRef.current.focus();
+  }
 
   return (
     <Container>
       {data.status === 'success' && (
         <Country>
           <Flag src={data.drawnCountry.flag} alt={`Flag`} />
-          <Form>
-            <Input invertedColors placeholder='Country name' />
-            <Button invertedColors>Guess!</Button>
+          <Form onSubmit={onFormSubmit}>
+            <Input
+              ref={inputRef}
+              value={inputValue}
+              onChange={({ target }) => setInputValue(target.value)}
+              placeholder='Country name'
+            />
+            <Button>Guess!</Button>
           </Form>
           <HelpButtons>
-            <Button>Hint</Button>
-            <Button>Skip</Button>
+            <Button onClick={() => getCountryHints()}>Hint</Button>
+            <Button onClick={() => skipCountry()}>Skip</Button>
           </HelpButtons>
+          <Hints>
+            {data.countryHints.map(hint => {
+              return hint === 'Population' ? (
+                <Hint key={hint}>
+                  {hint}: {data.drawnCountry.population}
+                </Hint>
+              ) : hint === 'Official languages' ? (
+                <Hint key={hint}>
+                  {hint}:{' '}
+                  {Object.values(data.drawnCountry.languages).join(
+                    ', '
+                  )}
+                </Hint>
+              ) : hint === 'Subregion' ? (
+                <Hint key={hint}>
+                  {hint}: {data.drawnCountry.subregion}
+                </Hint>
+              ) : (
+                <Hint key={hint}>
+                  {hint}: {data.drawnCountry.capital}
+                </Hint>
+              );
+            })}
+          </Hints>
         </Country>
       )}
     </Container>
