@@ -2,6 +2,7 @@ import { useState, useRef } from 'react';
 
 import Container from '../../components/layout/Container';
 import Victory from '../../components/UI/Victory';
+import Error from '../../components/UI/Error';
 import { useCountries } from '../../hooks/useCountries';
 import { Input } from '../../components/UI/Input/styled';
 import { Button } from '../../components/UI/Button/styled';
@@ -30,6 +31,7 @@ function Flags() {
 
   return (
     <Container>
+      {data.status === 'error' && <Error />}
       {data.status === 'success' &&
         (data.countries.length > 0 ? (
           <Country>
