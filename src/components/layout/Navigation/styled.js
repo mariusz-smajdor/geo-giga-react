@@ -52,6 +52,7 @@ export const Header = styled.header`
 
 export const Wrapper = styled.nav`
   position: fixed;
+  z-index: 999;
   height: 100vh;
   width: ${({ theme }) => theme.layout.navbar}px;
   box-shadow: ${({ theme }) => theme.color.secondary} 0px 2px 8px 0px;
