@@ -31,3 +31,10 @@ export const Form = styled.form`
     grid-template-columns: 1fr;
   }
 `;
+
+export const HelpButtons = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 0 25px;
+`;

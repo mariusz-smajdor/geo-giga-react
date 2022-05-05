@@ -2,7 +2,7 @@ import Container from '../../components/layout/Container';
 import { useCountries } from '../../hooks/useCountries';
 import { Input } from '../../components/UI/Input/styled';
 import { Button } from '../../components/UI/Button/styled';
-import { Country, Flag, Form } from './styled';
+import { Country, Flag, Form, HelpButtons } from './styled';
 
 function Flags() {
   const { data } = useCountries();
@@ -18,6 +18,10 @@ function Flags() {
             <Input invertedColors placeholder='Country name' />
             <Button invertedColors>Guess!</Button>
           </Form>
+          <HelpButtons>
+            <Button>Hint</Button>
+            <Button>Skip</Button>
+          </HelpButtons>
         </Country>
       )}
     </Container>
