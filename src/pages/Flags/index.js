@@ -1,8 +1,9 @@
 import { useState, useRef } from 'react';
 
 import Container from '../../components/layout/Container';
-import Victory from '../../components/UI/Victory';
+import Loading from '../../components/UI/Loading';
 import Error from '../../components/UI/Error';
+import Victory from '../../components/UI/Victory';
 import { useCountries } from '../../hooks/useCountries';
 import { Input } from '../../components/UI/Input/styled';
 import { Button } from '../../components/UI/Button/styled';
@@ -31,6 +32,7 @@ function Flags() {
 
   return (
     <Container>
+      {data.status === 'loading' && <Loading />}
       {data.status === 'error' && <Error />}
       {data.status === 'success' &&
         (data.countries.length > 0 ? (
