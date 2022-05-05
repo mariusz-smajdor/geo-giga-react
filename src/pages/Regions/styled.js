@@ -11,6 +11,16 @@ export const Wrapper = styled.section`
   background: ${({ theme }) => theme.color.primary};
 `;
 
+export const Form = styled.form`
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 20px;
+
+  @media (max-width: ${({ theme }) => theme.breakpoint.small}px) {
+    grid-template-columns: 1fr;
+  }
+`;
+
 export const Title = styled.h2`
   margin: 0;
   padding: 20px 0;
