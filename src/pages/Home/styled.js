@@ -1,26 +1,31 @@
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
-export const Form = styled.form`
-  flex-direction: column;
-  gap: 25px;
-  padding: 25px;
+export const Wrapper = styled.section`
   max-width: ${({ theme }) => theme.breakpoint.small}px;
   border-radius: 20px;
+  box-shadow: ${({ theme }) => theme.color.secondary} 0px 2px 8px 0px;
   background: ${({ theme }) => theme.color.primary};
-  display: flex;
+  padding: 20px;
 `;
 
 export const Title = styled.h2`
   margin: 0;
   font-weight: normal;
+  font-size: 22px;
 `;
 
-export const Key = styled.div`
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 20px;
+export const Text = styled.p`
+  line-height: 1.5;
+`;
 
-  @media (max-width: ${({ theme }) => theme.breakpoint.small}px) {
-    grid-template-columns: unset;
+export const StyledLink = styled(Link)`
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover {
+    text-decoration: 2px underline;
   }
 `;
