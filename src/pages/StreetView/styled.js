@@ -42,16 +42,22 @@ export const Map = styled.div`
   position: absolute;
   right: 25px;
   bottom: 25px;
-  padding: 20px;
-  border-radius: 20px;
-  background: ${({ theme }) => theme.color.primary};
-  overflow: hidden;
+
+  @media (max-width: ${({ theme }) => theme.breakpoint.medium}px) {
+    bottom: calc(${({ theme }) => theme.layout.smallNavbar}px + 25px);
+  }
 `;
 
 export const StyledMap = styled(MapContainer)`
-  height: 300px;
+  height: 250px;
   width: 400px;
+  border: 2px solid;
   border-radius: 20px;
+
+  @media (max-width: ${({ theme }) => theme.breakpoint.small}px) {
+    height: 200px;
+    width: 300px;
+  }
 `;
 
 export const ResultMap = styled(MapContainer)`
