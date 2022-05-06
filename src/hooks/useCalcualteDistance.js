@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 export function useCalculateDistance(lat1, lon1, lat2, lon2) {
   const [result, setResult] = useState(false);
-  const [resultText, setResultText] = useState('');
+  const [distance, setDistance] = useState(0);
 
   function deg2rad(deg) {
     return deg * (Math.PI / 180);
@@ -22,12 +22,12 @@ export function useCalculateDistance(lat1, lon1, lat2, lon2) {
     const d = earthRadius * c;
 
     setResult(true);
-    setResultText(`You are off by ${d.toFixed(3)} km`);
+    setDistance(d);
   }
 
   return {
     result,
-    resultText,
+    distance,
     setResult,
     calculateDistance,
   };
