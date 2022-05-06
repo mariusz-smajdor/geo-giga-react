@@ -18,12 +18,10 @@ import {
 
 function StreetView() {
   const [position, setPosition] = useState(null);
-  const { state } = useLocation();
-  const { data, removeCountry } = useCountries();
-  const { result, resultText, setResult, calculateDistance } =
+  const { state: googleKey } = useLocation();
+  const { data, skipCountry } = useCountries();
+  const { result, distance, setResult, calculateDistance } =
     useCalculateDistance();
-
-  const googleKey = state;
 
   function LocationMarker() {
     const map = useMapEvents({
@@ -40,7 +38,7 @@ function StreetView() {
   function changeCountryHandler() {
     setResult(false);
     setPosition(null);
-    removeCountry();
+    skipCountry();
   }
 
   function calcualteDistanceHandler() {
@@ -118,7 +116,7 @@ function StreetView() {
             ></Polyline>
           </ResultMap>
           <ResultField>
-            <p>{resultText}</p>
+            <p>You were off by {distance.toFixed(3)} km</p>
             <Button onClick={changeCountryHandler}>Next map</Button>
           </ResultField>
         </Fragment>
