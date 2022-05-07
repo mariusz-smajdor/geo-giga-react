@@ -5,6 +5,7 @@ import { useLocation } from 'react-router-dom';
 
 import { useCountries } from '../../hooks/useCountries';
 import { useCalculateDistance } from '../../hooks/useCalcualteDistance';
+import Error from '../../components/UI/Error';
 import Loading from '../../components/UI/Loading';
 import { Button } from '../../components/UI/Button/styled';
 import {
@@ -55,6 +56,7 @@ function StreetView() {
   return (
     <Wrapper>
       {data.status === 'loading' && <Loading />}
+      {data.status === 'error' && <Error />}
       {googleKey !== '' && data.status === 'success' && !result && (
         <Fragment>
           <Street>
