@@ -31,7 +31,7 @@ export const Form = styled.form`
 `;
 
 export const Street = styled.div`
-  height: 100vh;
+  height: 100%;
   width: 100vw;
 `;
 
@@ -66,13 +66,14 @@ export const StyledMap = styled(MapContainer)`
 `;
 
 export const ResultMap = styled(MapContainer)`
-  height: 100vh;
+  height: 100%;
   width: 100vw;
 `;
 
 export const ResultField = styled.div`
   display: flex;
   gap: 20px;
+  margin-left: 25px;
   position: absolute;
   right: 25px;
   bottom: 25px;
@@ -80,4 +81,8 @@ export const ResultField = styled.div`
   padding: 20px;
   border-radius: 20px;
   background: ${({ theme }) => theme.color.primary};
+
+  @media (max-width: ${({ theme }) => theme.breakpoint.medium}px) {
+    bottom: calc(25px + ${({ theme }) => theme.layout.smallNavbar}px);
+  }
 `;
