@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { MapContainer } from 'react-leaflet';
+import ReactStreetview from 'react-streetview';
 
 export const Wrapper = styled.section`
   display: flex;
@@ -32,6 +33,10 @@ export const Form = styled.form`
 export const Street = styled.div`
   height: 100vh;
   width: 100vw;
+`;
+
+export const StyledStreetview = styled(ReactStreetview)`
+  filter: invert(1);
 `;
 
 export const Map = styled.div`
