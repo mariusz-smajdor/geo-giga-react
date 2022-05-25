@@ -1,10 +1,23 @@
-import Container from '../../components/layout/Container';
+import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
+
+import { Map } from './styled';
+
+const geoUrl =
+  'https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json';
 
 function Lands() {
   return (
-    <Container>
-      <h1>hello</h1>
-    </Container>
+    <Map>
+      <ComposableMap>
+        <Geographies geography={geoUrl}>
+          {({ geographies }) =>
+            geographies.map(geo => {
+              return <Geography key={geo.rsmKey} geography={geo} />;
+            })
+          }
+        </Geographies>
+      </ComposableMap>
+    </Map>
   );
 }
 
