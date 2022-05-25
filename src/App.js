@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Regions from './pages/Regions';
 import Flags from './pages/Flags';
 import StreetView from './pages/StreetView';
+import Lands from './pages/Lands';
 import { regions } from './regions';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             element={<StreetView />}
           />
         ))}
+        <Route path='/lands' element={<Lands />} />
       </Routes>
     </HashRouter>
   );

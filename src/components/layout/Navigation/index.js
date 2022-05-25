@@ -37,7 +37,7 @@ function Navigation() {
             </StyledLink>
           </Item>
           <Item>
-            <StyledLink to='/'>
+            <StyledLink to='lands'>
               <RiEarthLine />
               <Text>Lands</Text>
             </StyledLink>
