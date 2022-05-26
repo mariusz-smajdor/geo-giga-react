@@ -1,4 +1,9 @@
-import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  ZoomableGroup,
+} from 'react-simple-maps';
 
 import { Map } from './styled';
 
@@ -9,13 +14,15 @@ function Lands() {
   return (
     <Map>
       <ComposableMap>
-        <Geographies geography={geoUrl}>
-          {({ geographies }) =>
-            geographies.map(geo => {
-              return <Geography key={geo.rsmKey} geography={geo} />;
-            })
-          }
-        </Geographies>
+        <ZoomableGroup>
+          <Geographies geography={geoUrl}>
+            {({ geographies }) =>
+              geographies.map(geo => {
+                return <Geography key={geo.rsmKey} geography={geo} />;
+              })
+            }
+          </Geographies>
+        </ZoomableGroup>
       </ComposableMap>
     </Map>
   );
