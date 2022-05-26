@@ -1,4 +1,5 @@
 import { Fragment, useState } from 'react';
+import ReactStreetview from 'react-streetview';
 import { Marker, TileLayer, Polyline, useMapEvents } from 'react-leaflet';
 import { useLocation } from 'react-router-dom';
 
@@ -60,7 +61,7 @@ function StreetView() {
       {googleKey !== '' && data.status === 'success' && !result && (
         <Fragment>
           <Street>
-            <StyledStreetview
+            <ReactStreetview
               apiKey={googleKey}
               streetViewPanoramaOptions={{
                 position: {
