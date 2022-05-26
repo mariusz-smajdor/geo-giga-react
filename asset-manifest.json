@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/geo-giga-react/static/js/main.5f48014e.js",
+    "main.js": "/geo-giga-react/static/js/main.f63cd3bd.js",
     "index.html": "/geo-giga-react/index.html",
-    "main.5f48014e.js.map": "/geo-giga-react/static/js/main.5f48014e.js.map"
+    "main.f63cd3bd.js.map": "/geo-giga-react/static/js/main.f63cd3bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.5f48014e.js"
+    "static/js/main.f63cd3bd.js"
   ]
 }
