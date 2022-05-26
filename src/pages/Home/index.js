@@ -13,7 +13,7 @@ function Home() {
           <IconContext.Provider value={{ size: '25px' }}>
             <StyledLink to='flags'>
               <Game>
-                <RiEarthLine />
+                <RiFlagLine />
                 Flags Game
               </Game>
             </StyledLink>
@@ -25,7 +25,7 @@ function Home() {
             </StyledLink>
             <StyledLink to='/'>
               <Game>
-                <RiFlagLine />
+                <RiEarthLine />
                 Lands Game
               </Game>
             </StyledLink>
