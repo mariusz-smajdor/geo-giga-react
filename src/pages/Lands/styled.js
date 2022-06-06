@@ -5,6 +5,7 @@ export const Map = styled(MapContainer)`
   height: 100vh;
   width: calc(100% - ${({ theme }) => theme.layout.navbar}px);
   margin-left: ${({ theme }) => theme.layout.navbar}px;
+  background: #7fcdff;
 
   @media (max-width: ${({ theme }) => theme.breakpoint.medium}px) {
     width: 100%;
