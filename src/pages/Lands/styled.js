@@ -1,8 +1,7 @@
 import styled from 'styled-components';
+import { MapContainer } from 'react-leaflet';
 
-export const Map = styled.section`
-  display: flex;
-  justify-content: center;
+export const Map = styled(MapContainer)`
   height: 100vh;
   width: calc(100% - ${({ theme }) => theme.layout.navbar}px);
   margin-left: ${({ theme }) => theme.layout.navbar}px;
