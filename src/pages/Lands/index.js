@@ -4,7 +4,7 @@ import { GeoJSON } from 'react-leaflet';
 import { useCountries } from '../../hooks/useCountries';
 import mapData from './mapCountries.json';
 import { theme } from '../../theme';
-import { Map, CountryPanel } from './styled';
+import { Map, CountryPanel, Flag, Info } from './styled';
 import Loading from '../../components/UI/Loading';
 import Error from '../../components/UI/Error';
 import Container from '../../components/layout/Container';
@@ -39,7 +39,13 @@ function Lands() {
         </Container>
       ) : (
         <Fragment>
-          <CountryPanel />
+          <CountryPanel>
+            <Info>{`Click on ${data.drawnCountry.name.common}`}</Info>
+            <Flag
+              src={data.drawnCountry.flag}
+              alt={`Flag of ${data.drawnCountry.flag}`}
+            />
+          </CountryPanel>
           <Map zoom={2} minZoom={2} center={[0, 0]}>
             <GeoJSON
               style={countryStyles}

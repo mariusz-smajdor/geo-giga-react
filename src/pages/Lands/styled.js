@@ -14,11 +14,25 @@ export const Map = styled(MapContainer)`
 `;
 
 export const CountryPanel = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
   z-index: 999;
-  height: 75px;
+  height: ${({ theme }) => theme.layout.navbar}px;
+  padding: 0 20px;
   background: ${({ theme }) => theme.color.primary};
+`;
+
+export const Flag = styled.img`
+  max-height: 50px;
+  box-shadow: #333 0px 2px 8px 0px;
+`;
+
+export const Info = styled.p`
+  font-size: 1.5rem;
 `;
