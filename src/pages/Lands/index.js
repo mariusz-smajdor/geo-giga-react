@@ -15,6 +15,8 @@ function Lands() {
   function onEachCountry(country, layer) {
     layer.on({
       click: e => {
+        const { ADMIN: clickedCountry } = country.properties;
+        if (clickedCountry !== data.drawnCountry.name.common) return;
         e.target.setStyle({
           fillColor: theme.color.primary,
           color: theme.color.text,
