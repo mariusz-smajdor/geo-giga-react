@@ -23,7 +23,7 @@ function Home() {
                 Street View Game
               </Game>
             </StyledLink>
-            <StyledLink to='/'>
+            <StyledLink to='lands'>
               <Game>
                 <RiEarthLine />
                 Lands Game
