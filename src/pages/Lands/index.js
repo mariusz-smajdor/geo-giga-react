@@ -1,10 +1,17 @@
+import { Fragment } from 'react';
 import { GeoJSON } from 'react-leaflet';
 
-import mapData from './countries.json';
+import { useCountries } from '../../hooks/useCountries';
+import mapData from './mapCountries.json';
 import { theme } from '../../theme';
-import { Map } from './styled';
+import { Map, CountryPanel } from './styled';
+import Loading from '../../components/UI/Loading';
+import Error from '../../components/UI/Error';
+import Container from '../../components/layout/Container';
 
 function Lands() {
+  const { data } = useCountries();
+
   function onEachCountry(country, layer) {
     layer.on({
       click: e => {
@@ -24,13 +31,25 @@ function Lands() {
   };
 
   return (
-    <Map zoom={2} center={[0, 0]}>
-      <GeoJSON
-        style={countryStyles}
-        data={mapData.features}
-        onEachFeature={onEachCountry}
-      ></GeoJSON>
-    </Map>
+    <Fragment>
+      {data.status !== 'success' ? (
+        <Container>
+          {data.status === 'loading' && <Loading />}
+          {data.status === 'error' && <Error />}
+        </Container>
+      ) : (
+        <Fragment>
+          <CountryPanel />
+          <Map zoom={2} minZoom={2} center={[0, 0]}>
+            <GeoJSON
+              style={countryStyles}
+              data={mapData.features}
+              onEachFeature={onEachCountry}
+            ></GeoJSON>
+          </Map>
+        </Fragment>
+      )}
+    </Fragment>
   );
 }
 

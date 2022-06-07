@@ -3,8 +3,7 @@ import { MapContainer } from 'react-leaflet';
 
 export const Map = styled(MapContainer)`
   height: 100vh;
-  width: calc(100% - ${({ theme }) => theme.layout.navbar}px);
-  margin-left: ${({ theme }) => theme.layout.navbar}px;
+  width: 100%;
   background: #7fcdff;
 
   @media (max-width: ${({ theme }) => theme.breakpoint.medium}px) {
@@ -12,4 +11,14 @@ export const Map = styled(MapContainer)`
     margin-left: 0;
     height: calc(100vh - ${({ theme }) => theme.layout.smallNavbar}px);
   } ;
+`;
+
+export const CountryPanel = styled.div`
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 999;
+  height: 75px;
+  background: ${({ theme }) => theme.color.primary};
 `;
