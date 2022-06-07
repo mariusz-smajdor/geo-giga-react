@@ -26,7 +26,10 @@ function App() {
             element={<StreetView />}
           />
         ))}
-        <Route path='/lands' element={<Lands />} />
+        <Route path='/lands' element={<Regions />} />
+        {regions.map(region => (
+          <Route key={region.id} path={`/lands/:region`} element={<Lands />} />
+        ))}
       </Routes>
     </HashRouter>
   );
