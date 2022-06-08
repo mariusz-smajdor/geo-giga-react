@@ -11,7 +11,6 @@ import { Button } from '../../components/UI/Button/styled';
 import {
   Wrapper,
   Street,
-  StyledStreetview,
   Map,
   StyledMap,
   ResultMap,
