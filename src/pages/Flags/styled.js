@@ -18,7 +18,11 @@ export const Country = styled.section`
 `;
 
 export const Flag = styled.img`
-  max-width: ${({ theme }) => theme.breakpoint.small}px;
+  min-width: 450px;
+
+  @media (max-width: ${({ theme }) => theme.breakpoint.small}px) {
+    min-width: unset;
+  }
 `;
 
 export const Form = styled.form`
