@@ -48,7 +48,12 @@ function Flags() {
               <Button>Guess!</Button>
             </Form>
             <HelpButtons>
-              <Button onClick={() => getCountryHints()}>Hint</Button>
+              <Button
+                onClick={() => getCountryHints()}
+                disabled={data.countryHints.length === 4}
+              >
+                Hint
+              </Button>
               <Button onClick={() => skipCountry()}>Skip</Button>
             </HelpButtons>
             <Hints>

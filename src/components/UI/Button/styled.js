@@ -12,4 +12,13 @@ export const Button = styled.button`
     background: ${({ theme }) => theme.color.text};
     color: ${({ theme }) => theme.color.secondary};
   }
+
+  &:disabled {
+    filter: brightness(50%);
+
+    &:hover {
+      background: ${({ theme }) => theme.color.primary};
+      color: ${({ theme }) => theme.color.text};
+    }
+  }
 `;
