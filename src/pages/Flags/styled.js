@@ -19,6 +19,7 @@ export const Country = styled.section`
 
 export const Flag = styled.img`
   min-width: 450px;
+  max-width: ${({ theme }) => theme.breakpoint.small}px;
 
   @media (max-width: ${({ theme }) => theme.breakpoint.small}px) {
     min-width: unset;
