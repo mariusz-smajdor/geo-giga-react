@@ -8,8 +8,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/uy.svg",
     "streetView": [
-      -34.9080823,
-      -56.1257681
+      [
+        -34.9080823,
+        -56.1257681
+      ]
     ],
     "population": 3473727,
     "subregion": "South America",
@@ -28,8 +30,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/py.svg",
     "streetView": [
-      -25.2862044,
-      -57.5777747
+      [
+        -25.2862044,
+        -57.5777747
+      ]
     ],
     "population": 7132530,
     "subregion": "South America",
@@ -49,8 +53,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/gm.svg",
     "streetView": [
-      13.4503451,
-      -16.7218027
+      [
+        13.4503451,
+        -16.7218027
+      ]
     ],
     "population": 2416664,
     "subregion": "Western Africa",
@@ -69,8 +75,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/dj.svg",
     "streetView": [
-      11.5963336,
-      43.1322358
+      [
+        11.5963336,
+        43.1322358
+      ]
     ],
     "population": 988002,
     "subregion": "Eastern Africa",
@@ -90,8 +98,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/mq.svg",
     "streetView": [
-      14.6124285,
-      -61.0786026
+      [
+        14.6124285,
+        -61.0786026
+      ]
     ],
     "population": 378243,
     "subregion": "Caribbean",
@@ -110,8 +120,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/gu.svg",
     "streetView": [
-      13.5182163,
-      144.8353028
+      [
+        13.5182163,
+        144.8353028
+      ]
     ],
     "population": 168783,
     "subregion": "Micronesia",
@@ -132,8 +144,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ge.svg",
     "streetView": [
-      41.6891141,
-      44.9308608
+      [
+        41.6891141,
+        44.9308608
+      ]
     ],
     "population": 3714000,
     "subregion": "Western Asia",
@@ -152,8 +166,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/us.svg",
     "streetView": [
-      46.8920311,
-      -98.724059
+      [
+        46.8920311,
+        -98.724059
+      ]
     ],
     "population": 329484123,
     "subregion": "North America",
@@ -172,8 +188,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/bz.svg",
     "streetView": [
-      17.2471234,
-      -88.7610769
+      [
+        17.2471234,
+        -88.7610769
+      ]
     ],
     "population": 397621,
     "subregion": "Central America",
@@ -194,8 +212,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/mu.svg",
     "streetView": [
-      -20.3191849,
-      57.5247239
+      [
+        -20.3191849,
+        57.5247239
+      ]
     ],
     "population": 1265740,
     "subregion": "Eastern Africa",
@@ -216,8 +236,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/lb.svg",
     "streetView": [
-      33.8867396,
-      35.5251037
+      [
+        33.8867396,
+        35.5251037
+      ]
     ],
     "population": 6825442,
     "subregion": "Western Asia",
@@ -237,8 +259,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/sa.svg",
     "streetView": [
-      24.7855096,
-      46.6843848
+      [
+        24.7855096,
+        46.6843848
+      ]
     ],
     "population": 34813867,
     "subregion": "Western Asia",
@@ -257,8 +281,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/ec.svg",
     "streetView": [
-      -0.2267776,
-      -78.4739811
+      [
+        -0.2267776,
+        -78.4739811
+      ]
     ],
     "population": 17643060,
     "subregion": "South America",
@@ -277,8 +303,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/mh.svg",
     "streetView": [
-      7.1166667,
-      171.2
+      [
+        7.1166667,
+        171.2
+      ]
     ],
     "population": 59194,
     "subregion": "Micronesia",
@@ -298,8 +326,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/br.svg",
     "streetView": [
-      -15.6398984,
-      -47.8238096
+      [
+        -15.6398984,
+        -47.8238096
+      ]
     ],
     "population": 212559409,
     "subregion": "South America",
@@ -318,8 +348,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ug.svg",
     "streetView": [
-      0.314859,
-      32.5813757
+      [
+        0.314859,
+        32.5813757
+      ]
     ],
     "population": 45741000,
     "subregion": "Eastern Africa",
@@ -339,8 +371,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/qa.svg",
     "streetView": [
-      25.2837033,
-      51.5348855
+      [
+        25.2837033,
+        51.5348855
+      ]
     ],
     "population": 2881060,
     "subregion": "Western Asia",
@@ -359,8 +393,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/tl.svg",
     "streetView": [
-      -9.119335,
-      125.5896601
+      [
+        -9.119335,
+        125.5896601
+      ]
     ],
     "population": 1318442,
     "subregion": "South-Eastern Asia",
@@ -380,8 +416,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/mn.svg",
     "streetView": [
-      47.9094517,
-      106.9025624
+      [
+        47.9094517,
+        106.9025624
+      ]
     ],
     "population": 3278292,
     "subregion": "Eastern Asia",
@@ -400,8 +438,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/cl.svg",
     "streetView": [
-      -33.4534344,
-      -70.6111289
+      [
+        -33.4534344,
+        -70.6111289
+      ]
     ],
     "population": 19116209,
     "subregion": "South America",
@@ -420,8 +460,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/lr.svg",
     "streetView": [
-      6.332238,
-      -10.7987309
+      [
+        6.332238,
+        -10.7987309
+      ]
     ],
     "population": 5057677,
     "subregion": "Western Africa",
@@ -440,8 +482,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/nr.svg",
     "streetView": [
-      -0.526085,
-      166.9543915
+      [
+        -0.526085,
+        166.9543915
+      ]
     ],
     "population": 10834,
     "subregion": "Micronesia",
@@ -461,8 +505,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/re.svg",
     "streetView": [
-      -20.8994246,
-      55.4795897
+      [
+        -20.8994246,
+        55.4795897
+      ]
     ],
     "population": 840974,
     "subregion": "Eastern Africa",
@@ -481,8 +527,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ms.svg",
     "streetView": [
-      16.7487271,
-      -62.212784
+      [
+        16.7487271,
+        -62.212784
+      ]
     ],
     "population": 4922,
     "subregion": "Caribbean",
@@ -501,8 +549,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/tw.svg",
     "streetView": [
-      25.0308455,
-      121.5554708
+      [
+        25.0308455,
+        121.5554708
+      ]
     ],
     "population": 23503349,
     "subregion": "Eastern Asia",
@@ -521,8 +571,10 @@
     "continent": "Antarctica",
     "flag": "https://flagcdn.com/aq.svg",
     "streetView": [
-      -69.0046311,
-      39.5807388
+      [
+        -69.0046311,
+        39.5807388
+      ]
     ],
     "population": 1000,
     "unMember": false,
@@ -537,8 +589,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/pm.svg",
     "streetView": [
-      46.7744658,
-      -56.172578
+      [
+        46.7744658,
+        -56.172578
+      ]
     ],
     "population": 6069,
     "subregion": "North America",
@@ -557,8 +611,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/ar.svg",
     "streetView": [
-      -34.6416588,
-      -58.5273154
+      [
+        -34.6416588,
+        -58.5273154
+      ]
     ],
     "population": 45376763,
     "subregion": "South America",
@@ -578,8 +634,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/tg.svg",
     "streetView": [
-      6.1709629,
-      1.2342424
+      [
+        6.1709629,
+        1.2342424
+      ]
     ],
     "population": 8278737,
     "subregion": "Western Africa",
@@ -598,8 +656,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/at.svg",
     "streetView": [
-      48.2135208,
-      16.3571317
+      [
+        48.2135208,
+        16.3571317
+      ]
     ],
     "population": 8917205,
     "subregion": "Central Europe",
@@ -618,8 +678,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/gd.svg",
     "streetView": [
-      12.0512171,
-      -61.752903
+      [
+        12.0512171,
+        -61.752903
+      ]
     ],
     "population": 112519,
     "subregion": "Caribbean",
@@ -638,8 +700,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/fo.svg",
     "streetView": [
-      62.0127427,
-      -6.7762293
+      [
+        62.0127427,
+        -6.7762293
+      ]
     ],
     "population": 48865,
     "subregion": "Northern Europe",
@@ -659,8 +723,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ma.svg",
     "streetView": [
-      30.2264521,
-      -9.5312147
+      [
+        30.2264521,
+        -9.5312147
+      ]
     ],
     "population": 36910558,
     "subregion": "Northern Africa",
@@ -680,8 +746,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ai.svg",
     "streetView": [
-      18.2210603,
-      -63.040054
+      [
+        18.2210603,
+        -63.040054
+      ]
     ],
     "population": 13452,
     "subregion": "Caribbean",
@@ -700,8 +768,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/pw.svg",
     "streetView": [
-      7.351205,
-      134.4645205
+      [
+        7.351205,
+        134.4645205
+      ]
     ],
     "population": 18092,
     "subregion": "Micronesia",
@@ -721,8 +791,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/mp.svg",
     "streetView": [
-      15.2147684,
-      145.7205206
+      [
+        15.2147684,
+        145.7205206
+      ]
     ],
     "population": 57557,
     "subregion": "Micronesia",
@@ -743,8 +815,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/mr.svg",
     "streetView": [
-      18.10386,
-      -15.99834
+      [
+        18.10386,
+        -15.99834
+      ]
     ],
     "population": 4649660,
     "subregion": "Western Africa",
@@ -763,8 +837,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ua.svg",
     "streetView": [
-      50.4581607,
-      30.6315665
+      [
+        50.4581607,
+        30.6315665
+      ]
     ],
     "population": 44134693,
     "subregion": "Eastern Europe",
@@ -783,8 +859,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/cn.svg",
     "streetView": [
-      39.9756553,
-      116.5217738
+      [
+        39.9756553,
+        116.5217738
+      ]
     ],
     "population": 1402112000,
     "subregion": "Eastern Asia",
@@ -803,8 +881,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ls.svg",
     "streetView": [
-      -29.3167237,
-      27.4936075
+      [
+        -29.3167237,
+        27.4936075
+      ]
     ],
     "population": 2142252,
     "subregion": "Southern Africa",
@@ -824,8 +904,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/cy.svg",
     "streetView": [
-      35.1830163,
-      33.3635847
+      [
+        35.1830163,
+        33.3635847
+      ]
     ],
     "population": 1207361,
     "subregion": "Southern Europe",
@@ -845,8 +927,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/cd.svg",
     "streetView": [
-      -4.3065771,
-      15.2859569
+      [
+        -4.3065771,
+        15.2859569
+      ]
     ],
     "population": 89561404,
     "subregion": "Middle Africa",
@@ -869,8 +953,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ru.svg",
     "streetView": [
-      55.7387843,
-      37.6154651
+      [
+        55.7387843,
+        37.6154651
+      ]
     ],
     "population": 144104080,
     "subregion": "Eastern Europe",
@@ -889,8 +975,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/bd.svg",
     "streetView": [
-      23.7990688,
-      90.4024279
+      [
+        23.7990688,
+        90.4024279
+      ]
     ],
     "population": 164689383,
     "subregion": "Southern Asia",
@@ -909,8 +997,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/za.svg",
     "streetView": [
-      -33.9427975,
-      18.4766515
+      [
+        -33.9427975,
+        18.4766515
+      ]
     ],
     "population": 59308690,
     "subregion": "Southern Africa",
@@ -939,8 +1029,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/cw.svg",
     "streetView": [
-      12.1249924,
-      -68.882105
+      [
+        12.1249924,
+        -68.882105
+      ]
     ],
     "population": 155014,
     "subregion": "Caribbean",
@@ -961,8 +1053,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/gt.svg",
     "streetView": [
-      14.6325183,
-      -90.5237565
+      [
+        14.6325183,
+        -90.5237565
+      ]
     ],
     "population": 16858333,
     "subregion": "Central America",
@@ -981,8 +1075,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/pr.svg",
     "streetView": [
-      18.4294958,
-      -66.0750352
+      [
+        18.4294958,
+        -66.0750352
+      ]
     ],
     "population": 3194034,
     "subregion": "Caribbean",
@@ -1002,8 +1098,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ag.svg",
     "streetView": [
-      17.1211314,
-      -61.8458929
+      [
+        17.1211314,
+        -61.8458929
+      ]
     ],
     "population": 97928,
     "subregion": "Caribbean",
@@ -1022,8 +1120,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/il.svg",
     "streetView": [
-      31.7696919,
-      35.2073118
+      [
+        31.7696919,
+        35.2073118
+      ]
     ],
     "population": 9216900,
     "subregion": "Western Asia",
@@ -1043,8 +1143,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/gy.svg",
     "streetView": [
-      6.8007925,
-      -58.1375
+      [
+        6.8007925,
+        -58.1375
+      ]
     ],
     "population": 786559,
     "subregion": "South America",
@@ -1063,8 +1165,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ky.svg",
     "streetView": [
-      19.2861002,
-      -81.3669046
+      [
+        19.2861002,
+        -81.3669046
+      ]
     ],
     "population": 65720,
     "subregion": "Caribbean",
@@ -1083,8 +1187,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/hr.svg",
     "streetView": [
-      45.8043084,
-      15.9911328
+      [
+        45.8043084,
+        15.9911328
+      ]
     ],
     "population": 4047200,
     "subregion": "Southeast Europe",
@@ -1103,8 +1209,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/is.svg",
     "streetView": [
-      64.1402959,
-      -21.9463966
+      [
+        64.1402959,
+        -21.9463966
+      ]
     ],
     "population": 366425,
     "subregion": "Northern Europe",
@@ -1123,8 +1231,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/bq.svg",
     "streetView": [
-      12.1508612,
-      -68.2767565
+      [
+        12.1508612,
+        -68.2767565
+      ]
     ],
     "population": 25987,
     "subregion": "Caribbean",
@@ -1145,8 +1255,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/sx.svg",
     "streetView": [
-      18.0243333,
-      -63.047575
+      [
+        18.0243333,
+        -63.047575
+      ]
     ],
     "population": 40812,
     "subregion": "Caribbean",
@@ -1167,8 +1279,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/na.svg",
     "streetView": [
-      -22.5347976,
-      17.0683076
+      [
+        -22.5347976,
+        17.0683076
+      ]
     ],
     "population": 2540916,
     "subregion": "Southern Africa",
@@ -1195,8 +1309,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/dm.svg",
     "streetView": [
-      15.2858545,
-      -61.3762437
+      [
+        15.2858545,
+        -61.3762437
+      ]
     ],
     "population": 71991,
     "subregion": "Caribbean",
@@ -1215,8 +1331,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/gi.svg",
     "streetView": [
-      36.1407471,
-      -5.3547474
+      [
+        36.1407471,
+        -5.3547474
+      ]
     ],
     "population": 33691,
     "subregion": "Southern Europe",
@@ -1235,8 +1353,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sn.svg",
     "streetView": [
-      14.6937802,
-      -17.4443044
+      [
+        14.6937802,
+        -17.4443044
+      ]
     ],
     "population": 16743930,
     "subregion": "Western Africa",
@@ -1255,8 +1375,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/kn.svg",
     "streetView": [
-      17.2916646,
-      -62.7227448
+      [
+        17.2916646,
+        -62.7227448
+      ]
     ],
     "population": 53192,
     "subregion": "Caribbean",
@@ -1275,8 +1397,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/om.svg",
     "streetView": [
-      23.6028917,
-      58.2385882
+      [
+        23.6028917,
+        58.2385882
+      ]
     ],
     "population": 5106622,
     "subregion": "Western Asia",
@@ -1295,8 +1419,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kw.svg",
     "streetView": [
-      29.3778526,
-      47.9847004
+      [
+        29.3778526,
+        47.9847004
+      ]
     ],
     "population": 4270563,
     "subregion": "Western Asia",
@@ -1315,8 +1441,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ax.svg",
     "streetView": [
-      60.0969171,
-      19.9353442
+      [
+        60.0969171,
+        19.9353442
+      ]
     ],
     "population": 29458,
     "subregion": "Northern Europe",
@@ -1335,8 +1463,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/vi.svg",
     "streetView": [
-      18.3402982,
-      -64.929679
+      [
+        18.3402982,
+        -64.929679
+      ]
     ],
     "population": 106290,
     "subregion": "Caribbean",
@@ -1371,8 +1501,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/gb.svg",
     "streetView": [
-      51.2859587,
-      -0.0814462
+      [
+        51.2859587,
+        -0.0814462
+      ]
     ],
     "population": 67215293,
     "subregion": "Northern Europe",
@@ -1391,8 +1523,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/hn.svg",
     "streetView": [
-      14.0842089,
-      -87.1725187
+      [
+        14.0842089,
+        -87.1725187
+      ]
     ],
     "population": 9904608,
     "subregion": "Central America",
@@ -1411,8 +1545,10 @@
     "continent": "Antarctica",
     "flag": "https://flagcdn.com/gs.svg",
     "streetView": [
-      -54.2800959,
-      -36.5067807
+      [
+        -54.2800959,
+        -36.5067807
+      ]
     ],
     "population": 30,
     "unMember": false,
@@ -1430,8 +1566,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kh.svg",
     "streetView": [
-      11.5301953,
-      104.9296136
+      [
+        11.5301953,
+        104.9296136
+      ]
     ],
     "population": 16718971,
     "subregion": "South-Eastern Asia",
@@ -1470,8 +1608,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ir.svg",
     "streetView": [
-      35.6886358,
-      51.432699
+      [
+        35.6886358,
+        51.432699
+      ]
     ],
     "population": 83992953,
     "subregion": "Southern Asia",
@@ -1490,8 +1630,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/pa.svg",
     "streetView": [
-      8.9869911,
-      -79.5319425
+      [
+        8.9869911,
+        -79.5319425
+      ]
     ],
     "population": 4314768,
     "subregion": "Central America",
@@ -1510,8 +1652,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/ck.svg",
     "streetView": [
-      -21.2058014,
-      -159.7849606
+      [
+        -21.2058014,
+        -159.7849606
+      ]
     ],
     "population": 18100,
     "subregion": "Polynesia",
@@ -1531,8 +1675,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ad.svg",
     "streetView": [
-      42.5078135,
-      1.538712
+      [
+        42.5078135,
+        1.538712
+      ]
     ],
     "population": 77265,
     "subregion": "Southern Europe",
@@ -1551,8 +1697,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/bi.svg",
     "streetView": [
-      -3.60922,
-      30.0070889
+      [
+        -3.60922,
+        30.0070889
+      ]
     ],
     "population": 11890781,
     "subregion": "Eastern Africa",
@@ -1572,8 +1720,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/tt.svg",
     "streetView": [
-      10.6565993,
-      -61.5124634
+      [
+        10.6565993,
+        -61.5124634
+      ]
     ],
     "population": 1399491,
     "subregion": "Caribbean",
@@ -1592,8 +1742,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/km.svg",
     "streetView": [
-      -12.1758712,
-      44.4002624
+      [
+        -12.1758712,
+        44.4002624
+      ]
     ],
     "population": 869595,
     "subregion": "Eastern Africa",
@@ -1630,8 +1782,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/xk.svg",
     "streetView": [
-      42.6455299,
-      21.1700991
+      [
+        42.6455299,
+        21.1700991
+      ]
     ],
     "population": 1775378,
     "subregion": "Southeast Europe",
@@ -1651,8 +1805,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ng.svg",
     "streetView": [
-      9.0659929,
-      7.3956294
+      [
+        9.0659929,
+        7.3956294
+      ]
     ],
     "population": 206139587,
     "subregion": "Western Africa",
@@ -1671,8 +1827,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/pl.svg",
     "streetView": [
-      50.5515504,
-      18.9414885
+      [
+        50.5515504,
+        18.9414885
+      ]
     ],
     "population": 37950802,
     "subregion": "Central Europe",
@@ -1691,8 +1849,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/nu.svg",
     "streetView": [
-      -19.1267916,
-      -169.9128154
+      [
+        -19.1267916,
+        -169.9128154
+      ]
     ],
     "population": 1470,
     "subregion": "Polynesia",
@@ -1712,8 +1872,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/nc.svg",
     "streetView": [
-      -22.2532933,
-      166.4496481
+      [
+        -22.2532933,
+        166.4496481
+      ]
     ],
     "population": 271960,
     "subregion": "Melanesia",
@@ -1732,8 +1894,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/et.svg",
     "streetView": [
-      8.9800689,
-      38.7989319
+      [
+        8.9800689,
+        38.7989319
+      ]
     ],
     "population": 114963583,
     "subregion": "Eastern Africa",
@@ -1752,8 +1916,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/de.svg",
     "streetView": [
-      52.5103784,
-      13.3906307
+      [
+        52.5103784,
+        13.3906307
+      ]
     ],
     "population": 83240525,
     "subregion": "Western Europe",
@@ -1772,8 +1938,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/az.svg",
     "streetView": [
-      40.3974836,
-      49.8730521
+      [
+        40.3974836,
+        49.8730521
+      ]
     ],
     "population": 10110116,
     "subregion": "Western Asia",
@@ -1793,8 +1961,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/nl.svg",
     "streetView": [
-      52.2613615,
-      5.6063465
+      [
+        52.2613615,
+        5.6063465
+      ]
     ],
     "population": 16655799,
     "subregion": "Western Europe",
@@ -1813,8 +1983,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/fr.svg",
     "streetView": [
-      48.8227159,
-      2.377348
+      [
+        48.8227159,
+        2.377348
+      ]
     ],
     "population": 67391582,
     "subregion": "Western Europe",
@@ -1833,8 +2005,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/np.svg",
     "streetView": [
-      27.7058206,
-      85.3229674
+      [
+        27.7058206,
+        85.3229674
+      ]
     ],
     "population": 29136808,
     "subregion": "Southern Asia",
@@ -1853,8 +2027,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/bb.svg",
     "streetView": [
-      13.1055938,
-      -59.611844
+      [
+        13.1055938,
+        -59.611844
+      ]
     ],
     "population": 287371,
     "subregion": "Caribbean",
@@ -1873,8 +2049,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/je.svg",
     "streetView": [
-      49.1808805,
-      -2.1035822
+      [
+        49.1808805,
+        -2.1035822
+      ]
     ],
     "population": 100800,
     "subregion": "Northern Europe",
@@ -1895,8 +2073,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/in.svg",
     "streetView": [
-      28.6177061,
-      77.2348088
+      [
+        28.6177061,
+        77.2348088
+      ]
     ],
     "population": 1380004385,
     "subregion": "Southern Asia",
@@ -1917,8 +2097,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kg.svg",
     "streetView": [
-      42.8798093,
-      74.5780468
+      [
+        42.8798093,
+        74.5780468
+      ]
     ],
     "population": 6591600,
     "subregion": "Central Asia",
@@ -1938,8 +2120,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ss.svg",
     "streetView": [
-      4.861372,
-      31.6020336
+      [
+        4.861372,
+        31.6020336
+      ]
     ],
     "population": 11193729,
     "subregion": "Middle Africa",
@@ -1958,8 +2142,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/iq.svg",
     "streetView": [
-      33.3277829,
-      44.3847589
+      [
+        33.3277829,
+        44.3847589
+      ]
     ],
     "population": 40222503,
     "subregion": "Western Asia",
@@ -1980,8 +2166,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/it.svg",
     "streetView": [
-      41.909124,
-      12.5460053
+      [
+        41.909124,
+        12.5460053
+      ]
     ],
     "population": 59554023,
     "subregion": "Southern Europe",
@@ -2000,8 +2188,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/cu.svg",
     "streetView": [
-      23.1360106,
-      -82.3590842
+      [
+        23.1360106,
+        -82.3590842
+      ]
     ],
     "population": 11326616,
     "subregion": "Caribbean",
@@ -2020,8 +2210,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/bt.svg",
     "streetView": [
-      27.4675931,
-      89.6433229
+      [
+        27.4675931,
+        89.6433229
+      ]
     ],
     "population": 771612,
     "subregion": "Southern Asia",
@@ -2040,8 +2232,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/bs.svg",
     "streetView": [
-      25.0793444,
-      -77.3601724
+      [
+        25.0793444,
+        -77.3601724
+      ]
     ],
     "population": 393248,
     "subregion": "Caribbean",
@@ -2060,8 +2254,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/no.svg",
     "streetView": [
-      59.9463137,
-      10.7107043
+      [
+        59.9463137,
+        10.7107043
+      ]
     ],
     "population": 5379475,
     "subregion": "Northern Europe",
@@ -2082,8 +2278,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/lt.svg",
     "streetView": [
-      54.6717041,
-      25.1964897
+      [
+        54.6717041,
+        25.1964897
+      ]
     ],
     "population": 2794700,
     "subregion": "Northern Europe",
@@ -2102,8 +2300,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ke.svg",
     "streetView": [
-      -1.2584983,
-      36.8014656
+      [
+        -1.2584983,
+        36.8014656
+      ]
     ],
     "population": 53771300,
     "subregion": "Eastern Africa",
@@ -2140,8 +2340,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/se.svg",
     "streetView": [
-      59.4617442,
-      17.8223646
+      [
+        59.4617442,
+        17.8223646
+      ]
     ],
     "population": 10353442,
     "subregion": "Northern Europe",
@@ -2160,8 +2362,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/gp.svg",
     "streetView": [
-      16.0121646,
-      -61.7420675
+      [
+        16.0121646,
+        -61.7420675
+      ]
     ],
     "population": 400132,
     "subregion": "Caribbean",
@@ -2180,8 +2384,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ga.svg",
     "streetView": [
-      -1.2301293,
-      10.5831721
+      [
+        -1.2301293,
+        10.5831721
+      ]
     ],
     "population": 2225728,
     "subregion": "Middle Africa",
@@ -2200,8 +2406,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/mo.svg",
     "streetView": [
-      22.2078024,
-      113.5512348
+      [
+        22.2078024,
+        113.5512348
+      ]
     ],
     "population": 649342,
     "subregion": "Eastern Asia",
@@ -2240,8 +2448,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/rw.svg",
     "streetView": [
-      -1.9417657,
-      30.0445778
+      [
+        -1.9417657,
+        30.0445778
+      ]
     ],
     "population": 12952209,
     "subregion": "Eastern Africa",
@@ -2262,8 +2472,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/sy.svg",
     "streetView": [
-      33.5133773,
-      36.2772534
+      [
+        33.5133773,
+        36.2772534
+      ]
     ],
     "population": 17500657,
     "subregion": "Western Asia",
@@ -2282,8 +2494,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ca.svg",
     "streetView": [
-      45.5358975,
-      -75.6816687
+      [
+        45.5358975,
+        -75.6816687
+      ]
     ],
     "population": 38005238,
     "subregion": "North America",
@@ -2303,8 +2517,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/dz.svg",
     "streetView": [
-      36.7882622,
-      3.0634365
+      [
+        36.7882622,
+        3.0634365
+      ]
     ],
     "population": 44700000,
     "subregion": "Northern Africa",
@@ -2340,8 +2556,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/eh.svg",
     "streetView": [
-      27.1542236,
-      -13.2186071
+      [
+        27.1542236,
+        -13.2186071
+      ]
     ],
     "population": 510713,
     "subregion": "Northern Africa",
@@ -2362,8 +2580,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/im.svg",
     "streetView": [
-      54.1583268,
-      -4.4774563
+      [
+        54.1583268,
+        -4.4774563
+      ]
     ],
     "population": 85032,
     "subregion": "Northern Europe",
@@ -2383,8 +2603,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/bw.svg",
     "streetView": [
-      -24.6543924,
-      25.9007662
+      [
+        -24.6543924,
+        25.9007662
+      ]
     ],
     "population": 2351625,
     "subregion": "Southern Africa",
@@ -2404,8 +2626,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kz.svg",
     "streetView": [
-      51.1493244,
-      71.4721285
+      [
+        51.1493244,
+        71.4721285
+      ]
     ],
     "population": 18754440,
     "subregion": "Central Asia",
@@ -2425,8 +2649,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/ve.svg",
     "streetView": [
-      10.5125551,
-      -66.913002
+      [
+        10.5125551,
+        -66.913002
+      ]
     ],
     "population": 28435943,
     "subregion": "South America",
@@ -2445,8 +2671,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/pf.svg",
     "streetView": [
-      -17.546228,
-      -149.5793184
+      [
+        -17.546228,
+        -149.5793184
+      ]
     ],
     "population": 280904,
     "subregion": "Polynesia",
@@ -2465,8 +2693,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sd.svg",
     "streetView": [
-      15.6068716,
-      32.5110092
+      [
+        15.6068716,
+        32.5110092
+      ]
     ],
     "population": 43849269,
     "subregion": "Northern Africa",
@@ -2503,8 +2733,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/sk.svg",
     "streetView": [
-      48.2047032,
-      17.0367879
+      [
+        48.2047032,
+        17.0367879
+      ]
     ],
     "population": 5458827,
     "subregion": "Central Europe",
@@ -2540,8 +2772,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/cx.svg",
     "streetView": [
-      -10.4323624,
-      105.6716539
+      [
+        -10.4323624,
+        105.6716539
+      ]
     ],
     "population": 2072,
     "subregion": "Australia and New Zealand",
@@ -2560,8 +2794,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/sb.svg",
     "streetView": [
-      -9.4425109,
-      159.9577843
+      [
+        -9.4425109,
+        159.9577843
+      ]
     ],
     "population": 686878,
     "subregion": "Melanesia",
@@ -2580,8 +2816,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/lv.svg",
     "streetView": [
-      56.9746101,
-      24.2261172
+      [
+        56.9746101,
+        24.2261172
+      ]
     ],
     "population": 1901548,
     "subregion": "Northern Europe",
@@ -2600,8 +2838,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/vg.svg",
     "streetView": [
-      18.4273206,
-      -64.6183559
+      [
+        18.4273206,
+        -64.6183559
+      ]
     ],
     "population": 30237,
     "subregion": "Caribbean",
@@ -2620,8 +2860,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/jm.svg",
     "streetView": [
-      18.0400272,
-      -76.7776389
+      [
+        18.0400272,
+        -76.7776389
+      ]
     ],
     "population": 2961161,
     "subregion": "Caribbean",
@@ -2641,8 +2883,10 @@
     "continent": "Asia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
     "streetView": [
-      34.5209503,
-      69.1747437
+      [
+        34.5209503,
+        69.1747437
+      ]
     ],
     "population": 40218234,
     "subregion": "Southern Asia",
@@ -2663,8 +2907,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/rs.svg",
     "streetView": [
-      44.7852837,
-      20.4719473
+      [
+        44.7852837,
+        20.4719473
+      ]
     ],
     "population": 6908224,
     "subregion": "Southeast Europe",
@@ -2683,8 +2929,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/tj.svg",
     "streetView": [
-      38.57904,
-      68.7800783
+      [
+        38.57904,
+        68.7800783
+      ]
     ],
     "population": 9537642,
     "subregion": "Central Asia",
@@ -2704,8 +2952,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/to.svg",
     "streetView": [
-      -21.1353389,
-      -175.2031713
+      [
+        -21.1353389,
+        -175.2031713
+      ]
     ],
     "population": 105697,
     "subregion": "Polynesia",
@@ -2779,8 +3029,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ht.svg",
     "streetView": [
-      18.5768915,
-      -72.2852111
+      [
+        18.5768915,
+        -72.2852111
+      ]
     ],
     "population": 11402533,
     "subregion": "Caribbean",
@@ -2819,8 +3071,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ba.svg",
     "streetView": [
-      43.858683,
-      18.4101547
+      [
+        43.858683,
+        18.4101547
+      ]
     ],
     "population": 3280815,
     "subregion": "Southeast Europe",
@@ -2841,8 +3095,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/va.svg",
     "streetView": [
-      41.902312,
-      12.4573316
+      [
+        41.902312,
+        12.4573316
+      ]
     ],
     "population": 451,
     "subregion": "Southern Europe",
@@ -2879,8 +3135,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/sj.svg",
     "streetView": [
-      78.2202158,
-      15.6469739
+      [
+        78.2202158,
+        15.6469739
+      ]
     ],
     "population": 2562,
     "subregion": "Northern Europe",
@@ -2899,8 +3157,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/ws.svg",
     "streetView": [
-      -13.8397317,
-      -171.760847
+      [
+        -13.8397317,
+        -171.760847
+      ]
     ],
     "population": 198410,
     "subregion": "Polynesia",
@@ -2920,8 +3180,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/bo.svg",
     "streetView": [
-      -19.0432912,
-      -65.2579993
+      [
+        -19.0432912,
+        -65.2579993
+      ]
     ],
     "population": 11673029,
     "subregion": "South America",
@@ -2943,8 +3205,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/mg.svg",
     "streetView": [
-      -18.9243295,
-      47.5311834
+      [
+        -18.9243295,
+        47.5311834
+      ]
     ],
     "population": 27691019,
     "subregion": "Eastern Africa",
@@ -2964,8 +3228,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/st.svg",
     "streetView": [
-      0.3521098,
-      6.7147781
+      [
+        0.3521098,
+        6.7147781
+      ]
     ],
     "population": 219161,
     "subregion": "Middle Africa",
@@ -2984,8 +3250,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/bh.svg",
     "streetView": [
-      26.2210823,
-      50.5850305
+      [
+        26.2210823,
+        50.5850305
+      ]
     ],
     "population": 1701583,
     "subregion": "Western Asia",
@@ -3004,8 +3272,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/gr.svg",
     "streetView": [
-      38.0595159,
-      23.7387624
+      [
+        38.0595159,
+        23.7387624
+      ]
     ],
     "population": 10715549,
     "subregion": "Southern Europe",
@@ -3024,8 +3294,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/pe.svg",
     "streetView": [
-      -12.0309116,
-      -77.0948792
+      [
+        -12.0309116,
+        -77.0948792
+      ]
     ],
     "population": 32971846,
     "subregion": "South America",
@@ -3063,8 +3335,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/as.svg",
     "streetView": [
-      -14.273309,
-      -170.7029977
+      [
+        -14.273309,
+        -170.7029977
+      ]
     ],
     "population": 55197,
     "subregion": "Polynesia",
@@ -3101,8 +3375,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/th.svg",
     "streetView": [
-      13.8953971,
-      100.6058369
+      [
+        13.8953971,
+        100.6058369
+      ]
     ],
     "population": 69799978,
     "subregion": "South-Eastern Asia",
@@ -3121,8 +3397,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/tv.svg",
     "streetView": [
-      -8.5034037,
-      179.1946909
+      [
+        -8.5034037,
+        179.1946909
+      ]
     ],
     "population": 11792,
     "subregion": "Polynesia",
@@ -3142,8 +3420,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kp.svg",
     "streetView": [
-      39.0194608,
-      125.7535511
+      [
+        39.0194608,
+        125.7535511
+      ]
     ],
     "population": 25778815,
     "subregion": "Eastern Asia",
@@ -3162,8 +3442,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ci.svg",
     "streetView": [
-      6.812899,
-      -5.2958768
+      [
+        6.812899,
+        -5.2958768
+      ]
     ],
     "population": 26378275,
     "subregion": "Western Africa",
@@ -3182,8 +3464,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ye.svg",
     "streetView": [
-      15.3536856,
-      44.2048232
+      [
+        15.3536856,
+        44.2048232
+      ]
     ],
     "population": 29825968,
     "subregion": "Western Asia",
@@ -3202,8 +3486,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/nz.svg",
     "streetView": [
-      -36.857932,
-      174.7615125
+      [
+        -36.857932,
+        174.7615125
+      ]
     ],
     "population": 5084300,
     "subregion": "Australia and New Zealand",
@@ -3224,8 +3510,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/am.svg",
     "streetView": [
-      40.210158,
-      44.4761962
+      [
+        40.210158,
+        44.4761962
+      ]
     ],
     "population": 2963234,
     "subregion": "Western Asia",
@@ -3244,8 +3532,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/pk.svg",
     "streetView": [
-      33.666599,
-      73.0130398
+      [
+        33.666599,
+        73.0130398
+      ]
     ],
     "population": 220892331,
     "subregion": "Southern Asia",
@@ -3265,8 +3555,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/mw.svg",
     "streetView": [
-      -13.9609289,
-      33.7988892
+      [
+        -13.9609289,
+        33.7988892
+      ]
     ],
     "population": 19129955,
     "subregion": "Eastern Africa",
@@ -3286,8 +3578,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ie.svg",
     "streetView": [
-      53.3400561,
-      -6.3862863
+      [
+        53.3400561,
+        -6.3862863
+      ]
     ],
     "population": 4994724,
     "subregion": "Northern Europe",
@@ -3307,8 +3601,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ph.svg",
     "streetView": [
-      14.5997301,
-      120.9795919
+      [
+        14.5997301,
+        120.9795919
+      ]
     ],
     "population": 109581085,
     "subregion": "South-Eastern Asia",
@@ -3328,8 +3624,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/cz.svg",
     "streetView": [
-      50.0771946,
-      14.3405855
+      [
+        50.0771946,
+        14.3405855
+      ]
     ],
     "population": 10698896,
     "subregion": "Central Europe",
@@ -3349,8 +3647,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/mm.svg",
     "streetView": [
-      19.7470426,
-      96.1154412
+      [
+        19.7470426,
+        96.1154412
+      ]
     ],
     "population": 54409794,
     "subregion": "South-Eastern Asia",
@@ -3369,8 +3669,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/cc.svg",
     "streetView": [
-      -12.1884128,
-      96.830192
+      [
+        -12.1884128,
+        96.830192
+      ]
     ],
     "population": 544,
     "subregion": "Australia and New Zealand",
@@ -3389,8 +3691,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ro.svg",
     "streetView": [
-      44.4995068,
-      25.9955603
+      [
+        44.4995068,
+        25.9955603
+      ]
     ],
     "population": 19286123,
     "subregion": "Southeast Europe",
@@ -3409,8 +3713,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/do.svg",
     "streetView": [
-      18.4930151,
-      -69.9293736
+      [
+        18.4930151,
+        -69.9293736
+      ]
     ],
     "population": 10847904,
     "subregion": "Caribbean",
@@ -3429,8 +3735,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/gh.svg",
     "streetView": [
-      5.6212965,
-      -0.1815506
+      [
+        5.6212965,
+        -0.1815506
+      ]
     ],
     "population": 31072945,
     "subregion": "Western Africa",
@@ -3449,8 +3757,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/mt.svg",
     "streetView": [
-      35.8996876,
-      14.514862
+      [
+        35.8996876,
+        14.514862
+      ]
     ],
     "population": 525285,
     "subregion": "Southern Europe",
@@ -3470,8 +3780,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/tr.svg",
     "streetView": [
-      39.9450077,
-      32.8435218
+      [
+        39.9450077,
+        32.8435218
+      ]
     ],
     "population": 84339067,
     "subregion": "Western Asia",
@@ -3490,8 +3802,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/eg.svg",
     "streetView": [
-      30.0506894,
-      31.2358693
+      [
+        30.0506894,
+        31.2358693
+      ]
     ],
     "population": 102334403,
     "subregion": "Northern Africa",
@@ -3510,8 +3824,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/mz.svg",
     "streetView": [
-      -25.9711676,
-      32.5645873
+      [
+        -25.9711676,
+        32.5645873
+      ]
     ],
     "population": 31255435,
     "subregion": "Eastern Africa",
@@ -3530,8 +3846,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/yt.svg",
     "streetView": [
-      -12.7952639,
-      45.2145056
+      [
+        -12.7952639,
+        45.2145056
+      ]
     ],
     "population": 226915,
     "subregion": "Eastern Africa",
@@ -3550,8 +3868,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/be.svg",
     "streetView": [
-      50.8393349,
-      4.4492463
+      [
+        50.8393349,
+        4.4492463
+      ]
     ],
     "population": 11555997,
     "subregion": "Western Europe",
@@ -3572,8 +3892,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/si.svg",
     "streetView": [
-      46.0668343,
-      14.50508
+      [
+        46.0668343,
+        14.50508
+      ]
     ],
     "population": 2100126,
     "subregion": "Central Europe",
@@ -3592,8 +3914,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/hu.svg",
     "streetView": [
-      47.4469855,
-      19.1252865
+      [
+        47.4469855,
+        19.1252865
+      ]
     ],
     "population": 9749763,
     "subregion": "Central Europe",
@@ -3612,8 +3936,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ae.svg",
     "streetView": [
-      25.3402658,
-      55.4013258
+      [
+        25.3402658,
+        55.4013258
+      ]
     ],
     "population": 9890400,
     "subregion": "Western Asia",
@@ -3632,8 +3958,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/al.svg",
     "streetView": [
-      41.3256067,
-      19.8168929
+      [
+        41.3256067,
+        19.8168929
+      ]
     ],
     "population": 2837743,
     "subregion": "Southeast Europe",
@@ -3652,8 +3980,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/fj.svg",
     "streetView": [
-      -18.1559302,
-      178.4263468
+      [
+        -18.1559302,
+        178.4263468
+      ]
     ],
     "population": 896444,
     "subregion": "Melanesia",
@@ -3674,8 +4004,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/sm.svg",
     "streetView": [
-      43.9172809,
-      12.4441532
+      [
+        43.9172809,
+        12.4441532
+      ]
     ],
     "population": 33938,
     "subregion": "Southern Europe",
@@ -3694,8 +4026,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/md.svg",
     "streetView": [
-      47.0265608,
-      28.8324046
+      [
+        47.0265608,
+        28.8324046
+      ]
     ],
     "population": 2617820,
     "subregion": "Eastern Europe",
@@ -3714,8 +4048,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ee.svg",
     "streetView": [
-      59.4364833,
-      24.8285721
+      [
+        59.4364833,
+        24.8285721
+      ]
     ],
     "population": 1331057,
     "subregion": "Northern Europe",
@@ -3734,8 +4070,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/vc.svg",
     "streetView": [
-      13.15378,
-      -61.2243024
+      [
+        13.15378,
+        -61.2243024
+      ]
     ],
     "population": 110947,
     "subregion": "Caribbean",
@@ -3754,8 +4092,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/by.svg",
     "streetView": [
-      53.9088074,
-      27.6355734
+      [
+        53.9088074,
+        27.6355734
+      ]
     ],
     "population": 9398861,
     "subregion": "Eastern Europe",
@@ -3775,8 +4115,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/lk.svg",
     "streetView": [
-      6.8840631,
-      79.9355631
+      [
+        6.8840631,
+        79.9355631
+      ]
     ],
     "population": 21919000,
     "subregion": "Southern Asia",
@@ -3796,8 +4138,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/sv.svg",
     "streetView": [
-      13.7013083,
-      -89.2242133
+      [
+        13.7013083,
+        -89.2242133
+      ]
     ],
     "population": 6486201,
     "subregion": "Central America",
@@ -3816,8 +4160,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/au.svg",
     "streetView": [
-      -31.9534039,
-      115.9132227
+      [
+        -31.9534039,
+        115.9132227
+      ]
     ],
     "population": 25687041,
     "subregion": "Australia and New Zealand",
@@ -3836,8 +4182,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/bm.svg",
     "streetView": [
-      32.2939712,
-      -64.7862311
+      [
+        32.2939712,
+        -64.7862311
+      ]
     ],
     "population": 63903,
     "subregion": "North America",
@@ -3856,8 +4204,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/ni.svg",
     "streetView": [
-      12.1091881,
-      -86.2516576
+      [
+        12.1091881,
+        -86.2516576
+      ]
     ],
     "population": 6624554,
     "subregion": "Central America",
@@ -3876,8 +4226,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/so.svg",
     "streetView": [
-      2.0377195,
-      45.356805
+      [
+        2.0377195,
+        45.356805
+      ]
     ],
     "population": 15893219,
     "subregion": "Eastern Africa",
@@ -3897,8 +4249,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/tc.svg",
     "streetView": [
-      21.4282929,
-      -71.1452795
+      [
+        21.4282929,
+        -71.1452795
+      ]
     ],
     "population": 38718,
     "subregion": "Caribbean",
@@ -3917,8 +4271,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/fm.svg",
     "streetView": [
-      7.4570487,
-      151.8422771
+      [
+        7.4570487,
+        151.8422771
+      ]
     ],
     "population": 115021,
     "subregion": "Micronesia",
@@ -3937,8 +4293,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/ps.svg",
     "streetView": [
-      31.9048613,
-      35.2042191
+      [
+        31.9048613,
+        35.2042191
+      ]
     ],
     "population": 4803269,
     "subregion": "Western Asia",
@@ -3957,8 +4315,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/tm.svg",
     "streetView": [
-      37.8802795,
-      58.3816681
+      [
+        37.8802795,
+        58.3816681
+      ]
     ],
     "population": 6031187,
     "subregion": "Central Asia",
@@ -3978,8 +4338,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/bf.svg",
     "streetView": [
-      12.3629217,
-      -1.5318583
+      [
+        12.3629217,
+        -1.5318583
+      ]
     ],
     "population": 20903278,
     "subregion": "Western Africa",
@@ -3998,8 +4360,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/cr.svg",
     "streetView": [
-      9.998,
-      -84.1124178
+      [
+        9.998,
+        -84.1124178
+      ]
     ],
     "population": 5094114,
     "subregion": "Central America",
@@ -4018,8 +4382,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/vn.svg",
     "streetView": [
-      21.018355,
-      105.7929421
+      [
+        21.018355,
+        105.7929421
+      ]
     ],
     "population": 97338583,
     "subregion": "South-Eastern Asia",
@@ -4038,8 +4404,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/cm.svg",
     "streetView": [
-      3.8637987,
-      11.5142736
+      [
+        3.8637987,
+        11.5142736
+      ]
     ],
     "population": 26545864,
     "subregion": "Middle Africa",
@@ -4059,8 +4427,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/gf.svg",
     "streetView": [
-      5.1675395,
-      -52.6838744
+      [
+        5.1675395,
+        -52.6838744
+      ]
     ],
     "population": 254541,
     "subregion": "South America",
@@ -4079,8 +4449,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sz.svg",
     "streetView": [
-      -26.3084222,
-      31.1199971
+      [
+        -26.3084222,
+        31.1199971
+      ]
     ],
     "population": 1160164,
     "subregion": "Southern Africa",
@@ -4100,8 +4472,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/zm.svg",
     "streetView": [
-      -15.4222131,
-      28.291429
+      [
+        -15.4222131,
+        28.291429
+      ]
     ],
     "population": 18383956,
     "subregion": "Eastern Africa",
@@ -4120,8 +4494,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/li.svg",
     "streetView": [
-      47.1371296,
-      9.5223727
+      [
+        47.1371296,
+        9.5223727
+      ]
     ],
     "population": 38137,
     "subregion": "Western Europe",
@@ -4140,8 +4516,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/me.svg",
     "streetView": [
-      42.4351793,
-      19.2765455
+      [
+        42.4351793,
+        19.2765455
+      ]
     ],
     "population": 621718,
     "subregion": "Southeast Europe",
@@ -4160,8 +4538,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/lc.svg",
     "streetView": [
-      14.0089944,
-      -60.990927
+      [
+        14.0089944,
+        -60.990927
+      ]
     ],
     "population": 183629,
     "subregion": "Caribbean",
@@ -4180,8 +4560,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/uz.svg",
     "streetView": [
-      41.3070274,
-      69.2970948
+      [
+        41.3070274,
+        69.2970948
+      ]
     ],
     "population": 34232050,
     "subregion": "Central Asia",
@@ -4201,8 +4583,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/td.svg",
     "streetView": [
-      12.1253735,
-      15.0342806
+      [
+        12.1253735,
+        15.0342806
+      ]
     ],
     "population": 16425859,
     "subregion": "Middle Africa",
@@ -4222,8 +4606,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/aw.svg",
     "streetView": [
-      12.5090679,
-      -70.0102583
+      [
+        12.5090679,
+        -70.0102583
+      ]
     ],
     "population": 106766,
     "subregion": "Caribbean",
@@ -4243,8 +4629,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/dk.svg",
     "streetView": [
-      55.698402,
-      12.5252274
+      [
+        55.698402,
+        12.5252274
+      ]
     ],
     "population": 5831404,
     "subregion": "Northern Europe",
@@ -4263,8 +4651,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/jp.svg",
     "streetView": [
-      35.7190609,
-      139.8021948
+      [
+        35.7190609,
+        139.8021948
+      ]
     ],
     "population": 125836021,
     "subregion": "Eastern Asia",
@@ -4283,8 +4673,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/cv.svg",
     "streetView": [
-      14.9212162,
-      -23.5064073
+      [
+        14.9212162,
+        -23.5064073
+      ]
     ],
     "population": 555988,
     "subregion": "Western Africa",
@@ -4303,8 +4695,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/ch.svg",
     "streetView": [
-      47.4028776,
-      8.5358898
+      [
+        47.4028776,
+        8.5358898
+      ]
     ],
     "population": 8654622,
     "subregion": "Western Europe",
@@ -4326,8 +4720,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/hk.svg",
     "streetView": [
-      22.3169087,
-      114.1666044
+      [
+        22.3169087,
+        114.1666044
+      ]
     ],
     "population": 7500700,
     "subregion": "Eastern Asia",
@@ -4347,8 +4743,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/bg.svg",
     "streetView": [
-      42.6913196,
-      23.3365464
+      [
+        42.6913196,
+        23.3365464
+      ]
     ],
     "population": 6927288,
     "subregion": "Southeast Europe",
@@ -4367,8 +4765,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/jo.svg",
     "streetView": [
-      31.9634831,
-      35.8913956
+      [
+        31.9634831,
+        35.8913956
+      ]
     ],
     "population": 10203140,
     "subregion": "Western Asia",
@@ -4387,8 +4787,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/cg.svg",
     "streetView": [
-      -4.7906075,
-      11.8505922
+      [
+        -4.7906075,
+        11.8505922
+      ]
     ],
     "population": 89561404,
     "subregion": "Middle Africa",
@@ -4409,8 +4811,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/la.svg",
     "streetView": [
-      18.0052011,
-      102.6467589
+      [
+        18.0052011,
+        102.6467589
+      ]
     ],
     "population": 7275556,
     "subregion": "South-Eastern Asia",
@@ -4429,8 +4833,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/nf.svg",
     "streetView": [
-      -29.0580663,
-      167.9551026
+      [
+        -29.0580663,
+        167.9551026
+      ]
     ],
     "population": 2302,
     "subregion": "Australia and New Zealand",
@@ -4450,8 +4856,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/kr.svg",
     "streetView": [
-      37.5660681,
-      126.98468
+      [
+        37.5660681,
+        126.98468
+      ]
     ],
     "population": 51780579,
     "subregion": "Eastern Asia",
@@ -4470,8 +4878,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/tn.svg",
     "streetView": [
-      36.8291314,
-      10.2008892
+      [
+        36.8291314,
+        10.2008892
+      ]
     ],
     "population": 11818618,
     "subregion": "Northern Africa",
@@ -4490,8 +4900,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/fi.svg",
     "streetView": [
-      60.1813899,
-      24.9539317
+      [
+        60.1813899,
+        24.9539317
+      ]
     ],
     "population": 5530719,
     "subregion": "Northern Europe",
@@ -4511,8 +4923,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/zw.svg",
     "streetView": [
-      -17.8261343,
-      31.0503802
+      [
+        -17.8261343,
+        31.0503802
+      ]
     ],
     "population": 14862927,
     "subregion": "Southern Africa",
@@ -4545,8 +4959,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/mv.svg",
     "streetView": [
-      4.2165868,
-      73.5418959
+      [
+        4.2165868,
+        73.5418959
+      ]
     ],
     "population": 540542,
     "subregion": "Southern Asia",
@@ -4565,8 +4981,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/sg.svg",
     "streetView": [
-      1.3798234,
-      103.8442992
+      [
+        1.3798234,
+        103.8442992
+      ]
     ],
     "population": 5685807,
     "subregion": "South-Eastern Asia",
@@ -4588,9 +5006,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/mc.svg",
     "streetView": [
-      43.7396211,
-      7.4250933,
-      3
+      [
+        43.7396211,
+        7.4250933
+      ]
     ],
     "population": 39244,
     "subregion": "Western Europe",
@@ -4609,8 +5028,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ao.svg",
     "streetView": [
-      -8.8068175,
-      13.2229734
+      [
+        -8.8068175,
+        13.2229734
+      ]
     ],
     "population": 32866268,
     "subregion": "Middle Africa",
@@ -4629,8 +5050,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/my.svg",
     "streetView": [
-      3.1596891,
-      101.7104005
+      [
+        3.1596891,
+        101.7104005
+      ]
     ],
     "population": 32365998,
     "subregion": "South-Eastern Asia",
@@ -4650,8 +5073,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/lu.svg",
     "streetView": [
-      49.5986588,
-      6.1262546
+      [
+        49.5986588,
+        6.1262546
+      ]
     ],
     "population": 632275,
     "subregion": "Western Europe",
@@ -4672,8 +5097,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/gn.svg",
     "streetView": [
-      9.5311415,
-      -13.6904763
+      [
+        9.5311415,
+        -13.6904763
+      ]
     ],
     "population": 13132792,
     "subregion": "Western Africa",
@@ -4692,8 +5119,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/ly.svg",
     "streetView": [
-      32.8953679,
-      13.1802199
+      [
+        32.8953679,
+        13.1802199
+      ]
     ],
     "population": 6871287,
     "subregion": "Northern Africa",
@@ -4712,8 +5141,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/es.svg",
     "streetView": [
-      40.4697515,
-      -3.6385251
+      [
+        40.4697515,
+        -3.6385251
+      ]
     ],
     "population": 47351567,
     "subregion": "Southern Europe",
@@ -4732,8 +5163,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/id.svg",
     "streetView": [
-      -6.2023223,
-      106.8465948
+      [
+        -6.2023223,
+        106.8465948
+      ]
     ],
     "population": 273523621,
     "subregion": "South-Eastern Asia",
@@ -4752,8 +5185,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sc.svg",
     "streetView": [
-      -4.6231442,
-      55.4523744
+      [
+        -4.6231442,
+        55.4523744
+      ]
     ],
     "population": 98462,
     "subregion": "Eastern Africa",
@@ -4774,8 +5209,10 @@
     "continent": "Asia",
     "flag": "https://flagcdn.com/bn.svg",
     "streetView": [
-      4.9338121,
-      114.899354
+      [
+        4.9338121,
+        114.899354
+      ]
     ],
     "population": 437483,
     "subregion": "South-Eastern Asia",
@@ -4794,8 +5231,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/mx.svg",
     "streetView": [
-      19.5275394,
-      -99.0857042
+      [
+        19.5275394,
+        -99.0857042
+      ]
     ],
     "population": 128932753,
     "subregion": "North America",
@@ -4814,8 +5253,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sh.svg",
     "streetView": [
-      -15.9618521,
-      -5.6495813
+      [
+        -15.9618521,
+        -5.6495813
+      ]
     ],
     "population": 53192,
     "subregion": "Western Africa",
@@ -4834,8 +5275,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/sl.svg",
     "streetView": [
-      8.4867582,
-      -13.2358515
+      [
+        8.4867582,
+        -13.2358515
+      ]
     ],
     "population": 7976985,
     "subregion": "Western Africa",
@@ -4854,8 +5297,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/cf.svg",
     "streetView": [
-      5.8528229,
-      14.5608593
+      [
+        5.8528229,
+        14.5608593
+      ]
     ],
     "population": 4829764,
     "subregion": "Middle Africa",
@@ -4875,8 +5320,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/gl.svg",
     "streetView": [
-      64.1802993,
-      -51.7043464
+      [
+        64.1802993,
+        -51.7043464
+      ]
     ],
     "population": 56367,
     "subregion": "North America",
@@ -4895,8 +5342,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/co.svg",
     "streetView": [
-      4.7424613,
-      -74.1275009
+      [
+        4.7424613,
+        -74.1275009
+      ]
     ],
     "population": 50882884,
     "subregion": "South America",
@@ -4915,8 +5364,10 @@
     "continent": "Oceania",
     "flag": "https://flagcdn.com/pg.svg",
     "streetView": [
-      -9.4415251,
-      147.180756
+      [
+        -9.4415251,
+        147.180756
+      ]
     ],
     "population": 8947027,
     "subregion": "Melanesia",
@@ -4937,8 +5388,10 @@
     "continent": "South America",
     "flag": "https://flagcdn.com/fk.svg",
     "streetView": [
-      -51.6915359,
-      -57.8644295
+      [
+        -51.6915359,
+        -57.8644295
+      ]
     ],
     "population": 2563,
     "subregion": "South America",
@@ -4957,8 +5410,10 @@
     "continent": "Europe",
     "flag": "https://flagcdn.com/pt.svg",
     "streetView": [
-      38.7135073,
-      -9.1405469
+      [
+        38.7135073,
+        -9.1405469
+      ]
     ],
     "population": 10305564,
     "subregion": "Southern Europe",
@@ -4977,8 +5432,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/gw.svg",
     "streetView": [
-      11.8588383,
-      -15.5749868
+      [
+        11.8588383,
+        -15.5749868
+      ]
     ],
     "population": 1967998,
     "subregion": "Western Africa",
@@ -4998,8 +5455,10 @@
     "continent": "North America",
     "flag": "https://flagcdn.com/mf.svg",
     "streetView": [
-      18.0441061,
-      -63.113567
+      [
+        18.0441061,
+        -63.113567
+      ]
     ],
     "population": 38659,
     "subregion": "Caribbean",
@@ -5018,8 +5477,10 @@
     "continent": "Africa",
     "flag": "https://flagcdn.com/tz.svg",
     "streetView": [
-      -6.8227893,
-      39.2734925
+      [
+        -6.8227893,
+        39.2734925
+      ]
     ],
     "population": 59734213,
     "subregion": "Eastern Africa",
